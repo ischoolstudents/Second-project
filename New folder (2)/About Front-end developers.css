@@ -1,0 +1,18 @@
+.container{
+    border: 5px solid darkblue;
+    border-radius: 5px;
+    padding: 20px 20px 20px 20px;
+    
+}
+img{
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+.box{
+    margin: 20px 20px 20px 20px;
+    border: 10px solid darkblue;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px 20px 20px
+}
